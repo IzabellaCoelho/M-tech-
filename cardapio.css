@@ -1,0 +1,23 @@
+body{
+    background-image: url(Cardápio\ digital\ para\ padaria.jpg) ;
+    text-align: center
+    
+    
+}
+ul{
+   border-radius: 20px;
+   display: inline-block;
+   padding:35px ;
+   background-color: rgba(31, 28, 28, 0.144);
+}
+ul{
+    color: rgb(7, 7, 7);
+    list-style: none;
+    font-size: larger;
+}
+h3{
+    font-size: 20px;
+}
+h1{
+    font-size: 35px;
+}
